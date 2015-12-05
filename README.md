@@ -1,7 +1,7 @@
 # Hello World
 
 This is a simple Swift Hello World website using the
-[Currasow](https://github.com/kylef/Currasow) Swift pre-forking worker webserver.
+[Currasow](https://github.com/kylef/Currasow) webserver which uses a pre-fork worker model.
 
 ## Usage
 
@@ -29,10 +29,10 @@ Usage:
     $ ./.build/release/HelloWorld
 
 Options:
-    --address
-    --port
+    --bind
+    --workers
 ```
 
 ```shell
-$ ./.build/release/HelloWorld --port 8080
+$ ./.build/release/HelloWorld --bind 127.0.0.1:8080
 ```
