@@ -1,7 +1,7 @@
 # Hello World
 
 This is a simple Swift Hello World website using the
-[Currasow](https://github.com/kylef/Currasow) webserver which uses a pre-fork worker model.
+[Curassow](https://github.com/kylef/Curassow) webserver which uses a pre-fork worker model.
 
 ## Usage
 
@@ -18,7 +18,7 @@ This example can be deployed to Heroku using the
 
 Click the button below to automatically set up this example to run on your own Heroku account.
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/kylef/Currasow-example-helloworld)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/kylef/Curassow-example-helloworld)
 
 ### Options
 
