@@ -1,6 +1,6 @@
 import Glibc
 import Inquiline
-import Curasow
+import Curassow
 
 
 serve { _ in
